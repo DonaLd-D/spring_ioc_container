@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+    <bean id="sweetApple" class="com.imooc.spring.ioc.entity.Apple">
+        <property name="title" value="red fuji"></property>
+        <property name="color" value="red"></property>
+        <property name="origin" value="japan"></property>
+    </bean>
+</beans>
